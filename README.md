@@ -1,0 +1,6 @@
+-**project titel**Student Performance Analytics System
+- **Student Name:** Chandan Jaiswal
+- **Course:** BCA (5th Semester) 
+-**intership** Python with AI Internship
+- **Technologies Used:** Python, NumPy, Pandas
+- **Objective:** To read student data from a CSV file, proces marks and averages, and analyze student performance.
